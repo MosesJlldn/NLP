@@ -1,0 +1,15 @@
+[[ 7832   780]
+ [  806 10493]]
+
+
+             precision    recall  f1-score   support
+
+      False       0.91      0.91      0.91      8612
+       True       0.93      0.93      0.93     11299
+
+avg / total       0.92      0.92      0.92     19911
+
+clf__alpha: 0.01
+tfidf__use_idf: False
+vect__ngram_range: (1, 1)
+
