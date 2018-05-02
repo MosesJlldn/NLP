@@ -24,7 +24,7 @@ def text_process(text):
 if __name__ == '__main__':
     yelp = pd.read_json('reviews.txt', lines=True)
     # yelp['text length'] = yelp['text'].apply(len)
-    yelp = yelp[:10]
+    yelp = yelp[:100]
     X = yelp['text']
     y = yelp['positive']
     

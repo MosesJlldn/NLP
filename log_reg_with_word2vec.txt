@@ -1,0 +1,14 @@
+             precision    recall  f1-score   support
+
+    android       1.00      0.67      0.80         3
+         c#       0.50      0.67      0.57         3
+        c++       0.00      0.00      0.00         1
+       html       0.00      0.00      0.00         1
+       java       0.00      0.00      0.00         2
+ javascript       0.50      0.50      0.50         6
+     jquery       0.00      0.00      0.00         0
+        php       0.00      0.00      0.00         0
+     python       0.00      0.00      0.00         4
+
+avg / total       0.38      0.35      0.36        20
+
